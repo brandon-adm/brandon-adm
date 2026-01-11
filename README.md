@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hey there 👋
+I'm Brandon, an aspiring web developer based in the Philippines.
 
+I develop and build things I get curious about.
+
+My current tech stack are HTML/CSS, Javascript, MySQL, PHP, and Bootstrap.
 <!--
 **brandon-adm/brandon-adm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
